@@ -6,6 +6,12 @@ This repo is meant for people who already know a bit of programming (loops, vari
 
 Still, my notes will cover from beginner level to advanced.
 
+# Table of contents
+
+### Basics
+
+[1. Syntax](1.%20Basics/1.%20Syntax.md)
+
 # 🙌 Contributions
 
 Feel free to contribute! If you have suggestions for additional topics or want to add an example or two, open an issue or submit a pull request. Let's make learning Python a bit more fun and approachable for everyone.
